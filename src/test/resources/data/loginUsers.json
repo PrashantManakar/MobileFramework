@@ -1,0 +1,29 @@
+{
+
+	"validAddress":{
+	
+	"country" : "Japan", 
+	"fullName":, "John Abrahum" 
+	"mobileNumber":,"081 -012-345-6789" 
+	"pinCode":,"163-8001"
+	"flatHouse":"Flat 102 A2 Abc society", 
+	"street":"Abc street", 
+	"landMark": "Near Orchid hospital", 
+	"townCity": "Tokyo", 
+	"state":"Tohoku"
+	
+	},
+	"invalidAddress":{
+	
+	"country" : "##Japan", 
+	"fullName":, "John Abrahum" 
+	"mobileNumber":,"DSR#$#$##4081 -012-345-6789" 
+	"pinCode":,"163-804353401"
+	"flatHouse":"Flat 102 A2 Abc society", 
+	"street":"Abc street", 
+	"landMark": "Near Orchid hospital", 
+	"townCity": "Tokio", 
+	"state":"Tohoku"
+	
+	}
+}
