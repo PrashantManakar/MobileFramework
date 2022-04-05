@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Error Text -->
+    <string name="valid_Adress">Address has been submitted successfully</string>
+    <string name="product_title">PRODUCTS</string>
+
+<!-- Products Page Marcari product details -->    
+    <string name="products_page_Search_title">MacBook</string>
+       
+ 
+</resources>
